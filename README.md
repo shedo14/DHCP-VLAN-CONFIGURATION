@@ -1,1 +1,2 @@
 # DHCP-VLAN-CONFIGURATION
+This repository contains a Cisco Packet Tracer network topology demonstrating the implementation of multi-subnet broadcast segmentation combined with centralized Layer 3 inter-VLAN routing. The project highlights how a single upstream router can be configured to act as both the default gateway and a centralized dynamic addressing authority for distinct functional business units.
